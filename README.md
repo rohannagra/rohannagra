@@ -1,18 +1,90 @@
-# 💫 About Me:
-I’m currently working on: improving my skills through hands-on projects<br><br>I’m looking to collaborate on: beginner-friendly or learning-focused projects<br><br>I’m looking for help with: best practices and real-world problem solving<br><br>I’m currently learning: core fundamentals in my field<br><br>Ask me about: what I’m learning and how I approach problems<br><br>Fun fact: I actually finish the projects I start
+
+# <img src="https://raw.githubusercontent.com/Arnav431/Arnav431/main/greeter.gif" width="30" height="30" /> Hey! Nice to see you.
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/r0hannagra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohannagra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2023a6r056@mietjammu.in) 
+I'm a Computer Science student specializing in Artificial Intelligence and Machine Learning, passionate about building intelligent and scalable systems.
+🤖 Developing AI-driven applications & smart automation tools
+🧠 Exploring Machine Learning, Deep Learning & Generative AI
+🐍 Strong in Python | Expanding skills in Java & backend development
+📊 Interested in data-driven problem solving & real-world AI applications
+🤝 Open to research collaborations & open-source projects
+💡 ACM Member | I love turning ideas into intelligent solutions
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rohannagra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rohannagra&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohannagra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🛠️ Things I work with
+  
+<p align="center">
+  <a>
+    <img src="https://skills.syvixor.com/api/icons?i=python,c,cpp,java,r,html,css,js,tailwind,linux,visualstudiocode,fastapi,flask,pytorch,tensorflow&size=64" />
+  </a>
+</p>
+<p align="center">
+  <a>
+    <img src="https://skills.syvixor.com/api/icons?i=numpy,pandas,gcp,render,vercel,nginx,mongodb,mysql,firebase,postman,figma,davinciresolve,gunicorn,git,canva&size=64" />
+  </a>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=rohannagra&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🌐 Find me on
+  
+<p align="center">
+<a href="https://linkedin.com/in/arnavkhajuria/"><img src="https://skills.syvixor.com/api/icons?i=linkedin&size=64" alt="LinkedIn"/></a>
+<a href="https://instagram.com/arnav.khajuria_1/"><img src="https://skills.syvixor.com/api/icons?i=instagram&size=64" alt="Instagram"/></a>
+<a href="https://x.com/ArnavKhajuria_1"><img src="https://skills.syvixor.com/api/icons?i=x&size=64" alt="X"/></a>
+<a href="mailto:arnavkhajuria431@gmail.com"><img src="https://skills.syvixor.com/api/icons?i=gmail&size=64" alt="Email"/></a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏆 GitHub Statistics
+<table align="center">
+  <tr>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Arnav431/Arnav431/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Arnav431/Arnav431/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation"
+          src="https://raw.githubusercontent.com/Arnav431/Arnav431/output/github-contribution-grid-snake.svg">
+      </picture>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+<!---<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Arnav431&theme=dark&hide_border=false" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav431&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+    </td>
+  </tr>
+</table>-->
+
+
+
+
+
+
+
+## 💬 Let's Connect!
+  
+I'm always interested in collaborating on innovative projects, especially those involving:
+- 🤖 AI/ML applications
+- 🔒 Cybersecurity solutions
+- 🌐 Open-source contributions
+- 🚀 Automation and scalability
+
+Feel free to reach out if you want to discuss tech, collaborate on projects, or just chat about breaking and securing systems!
+
+<p align="center">
+  <img 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First%2C%20learn%20the%20rules.%20Then%2C%20learn%20how%20to%20break%20them%20securely.&author=Made%20with%20❤️%20and%20lots%20of%20☕" 
+    alt="Quote"
+  />
+</p>
+
+
