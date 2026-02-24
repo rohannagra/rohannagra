@@ -3,12 +3,12 @@
 
 
 I'm a Computer Science student specializing in Artificial Intelligence and Machine Learning, passionate about building intelligent and scalable systems.
-🤖 Developing AI-driven applications & smart automation tools
-🧠 Exploring Machine Learning, Deep Learning & Generative AI
-🐍 Strong in Python | Expanding skills in Java & backend development
-📊 Interested in data-driven problem solving & real-world AI applications
-🤝 Open to research collaborations & open-source projects
-💡 ACM Member | I love turning ideas into intelligent solutions
+- 🤖 Developing AI-driven applications & smart automation tools
+- 🧠 Exploring Machine Learning, Deep Learning & Generative AI
+- 🐍 Strong in Python | Expanding skills in Java & backend development
+- 📊 Interested in data-driven problem solving & real-world AI applications
+- 🤝 Open to research collaborations & open-source projects
+- 💡 ACM Member | I love turning ideas into intelligent solutions
 
 ## 🛠️ Things I work with
   
