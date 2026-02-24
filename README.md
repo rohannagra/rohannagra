@@ -26,10 +26,9 @@ I'm a Computer Science student specializing in Artificial Intelligence and Machi
 ## 🌐 Find me on
   
 <p align="center">
-<a href="https://linkedin.com/in/arnavkhajuria/"><img src="https://skills.syvixor.com/api/icons?i=linkedin&size=64" alt="LinkedIn"/></a>
-<a href="https://instagram.com/arnav.khajuria_1/"><img src="https://skills.syvixor.com/api/icons?i=instagram&size=64" alt="Instagram"/></a>
-<a href="https://x.com/ArnavKhajuria_1"><img src="https://skills.syvixor.com/api/icons?i=x&size=64" alt="X"/></a>
-<a href="mailto:arnavkhajuria431@gmail.com"><img src="https://skills.syvixor.com/api/icons?i=gmail&size=64" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/rohannagra/"><img src="https://skills.syvixor.com/api/icons?i=linkedin&size=64" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/r0hannagra/"><img src="https://skills.syvixor.com/api/icons?i=instagram&size=64" alt="Instagram"/></a>
+<a href="mailto:2023a6r056@mietjammu.in"><img src="https://skills.syvixor.com/api/icons?i=gmail&size=64" alt="Email"/></a>
 </p>
 
 ## 🏆 GitHub Statistics
@@ -74,7 +73,6 @@ I'm a Computer Science student specializing in Artificial Intelligence and Machi
   
 I'm always interested in collaborating on innovative projects, especially those involving:
 - 🤖 AI/ML applications
-- 🔒 Cybersecurity solutions
 - 🌐 Open-source contributions
 - 🚀 Automation and scalability
 
